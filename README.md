@@ -1,4 +1,4 @@
-# 🔐 SPEAR - Secure Protocol for Encrypted Asynchronous Relay
+# 🔐 SPEAR : Secure Protocol for Encrypted Asynchronous Relay
 
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
